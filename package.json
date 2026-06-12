@@ -2,7 +2,7 @@
   "name": "Final-Project-FinPro-GDGOC-WEB-3.0",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Inggil1014.github.io/Final-Project-FinPro-GDGOC-WEB-3.0",
+  "homepage": "https://Inggil1014.github.io/FinPro-Web-3.0",
   "dependencies": {
     "ethers": "^6.7.0",
     "react": "^18.2.0",
